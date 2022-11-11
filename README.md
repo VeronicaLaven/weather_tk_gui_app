@@ -1,3 +1,5 @@
+### Python Weather App using TKinter and Open Weather Map API
+
 This project served as an exercise in using an API to retrieve real-time data.
 
 The steps used to complete this project were as follows:  
