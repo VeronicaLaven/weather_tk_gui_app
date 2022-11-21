@@ -19,4 +19,4 @@ The steps used to complete this project were as follows:
 14. Create a tuple of weather parameters to include the necessary unit conversions
 15. Create labels for weather data to be displayed 
 
-![image info](images/python_tkinter_weather_app.png=500x510)
+![image info](images/python_tkinter_weather_app.png, width=500, height=510)
