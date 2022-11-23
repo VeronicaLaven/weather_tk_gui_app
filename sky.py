@@ -12,7 +12,7 @@ from tkinter import messagebox
 # get url from openweathermap.org API current weather call by City Name
 url = 'https://api.openweathermap.org/data/2.5/weather?q={}&appid={}'
 
-# for security the api key is stored in the config.ini file so we will need extract to values 
+# for security the api key is stored in the config.ini file so we will need extract those values 
 config_file = "config.ini"
 config = ConfigParser()
 config.read(config_file)
