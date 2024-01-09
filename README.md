@@ -1,5 +1,7 @@
 ### Python Weather App using TKinter and Open Weather Map API
 
+![image info](images/python_tkinter_weather_app.png)
+
 This project served as an exercise in using an API to retrieve real-time data.
 
 The steps used to complete this project were as follows:  
@@ -19,4 +21,4 @@ The steps used to complete this project were as follows:
 14. Create a tuple of weather parameters to include the necessary unit conversions
 15. Create labels for weather data to be displayed 
 
-![image info](images/python_tkinter_weather_app.png)
+
